@@ -71,4 +71,3 @@ Here are some ideas to get you started:
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymaniac&amp;theme=dark" style="max-width: 50%;">
    </a>&nbsp;&nbsp;
 </div>
-<hr/>
