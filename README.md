@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-[<img align="left" alt="vuedotjs" src="https://img.shields.io/badge/vuedotjs-%23316192.svg?&style=for-the-badge&logo=vuedotjs&logoColor=green" />](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+[<img align="left" alt="vuedotjs" src="https://img.shields.io/badge/vuedotjs-%23316192.svg?&style=for-the-badge&logo=vuedotjs&logoColor=green" />]
 
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
