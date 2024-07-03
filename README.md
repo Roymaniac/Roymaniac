@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 <img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="vue" src="https://img.shields.io/badge/vuedotjs-%23316192.svg?&style=for-the-badge&logo=vuedotjs&logoColor=green" />
 <br>
+<br>
 <img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img align="left" alt="mssql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" />
@@ -60,7 +61,7 @@ Here are some ideas to get you started:
 # Stats
 <div align="center" dir="auto">
   <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=roymaniac&amp;theme=dark&amp;show_icons=true" style="max-width: 50%;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=roymaniac&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
   </a>&nbsp;&nbsp;
   <a href="https://git.io/streak-stats">
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=roymaniac&amp;theme=dark" style="max-width: 50%;">
