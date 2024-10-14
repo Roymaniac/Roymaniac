@@ -1,7 +1,7 @@
 ### Hello World 👋
-I am a fullstack software engineer from lagos, Nigeria
+I am a fullstack software engineer from Lagos, Nigeria
 - 🔭 Working on multiple frontend and backend project using (React.js and Nodejs) & (Laravel & Vue.js) 
-- 🌱 Learning system architecture design with kubernetes and GCP
+- 🌱 Familiar with system architecture design
 <br>
 
 <!--
