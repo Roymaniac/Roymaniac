@@ -61,13 +61,18 @@ Here are some ideas to get you started:
 
 # Stats
 <div align="center" dir="auto">
-  <a href="https://github.com/mmpacker/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=roymaniac&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
-  </a>&nbsp;&nbsp;
-  <a href="https://git.io/streak-stats">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=roymaniac&amp;theme=dark" style="max-width: 50%;">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymaniac&amp;theme=dark" style="max-width: 50%;">
-   </a>&nbsp;&nbsp;
+    <a href="https://github.com/mmpacker/github-readme-stats">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=roymaniac&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
+    </a>&nbsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_roy&layout=compact&amp;theme=dark" style="max-width: 100%;">
+   </a>&nbsp;
+</div>
+
+<div align="center" dir="auto">
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roymaniac&theme=dark&hide_border=true" alt="GitHub Streak" />
+    </a>&nbsp;
+   <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
+      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymaniac&layout=compact&langs_count=10&amp;theme=dark" style="max-width: 100%;">
+   </a>&nbsp;
 </div>
