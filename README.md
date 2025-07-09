@@ -1,6 +1,6 @@
 ### Hello World 👋
-I am a fullstack software engineer from Lagos, Nigeria
-- 🔭 Working on multiple frontend and backend project using (React.js and Nodejs) & (Laravel & Vue.js) 
+I am a full-stack software engineer from Lagos, Nigeria
+- 🔭 Working on multiple frontend and backend projects using (React.js and Express/Nest.js) & (Laravel & Vue.js) 
 - 🌱 Familiar with system architecture design
 <br>
 
