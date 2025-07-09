@@ -1,20 +1,14 @@
-### Hello World 👋
-I am a full-stack software engineer from Lagos, Nigeria
-- 🔭 Working on multiple frontend and backend projects using (React.js and Express/Nest.js) & (Laravel & Vue.js) 
-- 🌱 Familiar with system architecture design
-<br>
+### 👋 Hi there, I'm Amolo Joseph – a Full-Stack Software Engineer from Lagos, Nigeria 🇳🇬
 
-<!--
-**Roymaniac/Roymaniac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate and detail-oriented developer who thrives on building scalable web applications and solving real-world problems through code.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on multiple frontend and backend projects using **React.js**, **Express.js**, **Nest.js**, **Vue.js**, and **Laravel**  
+- 🧠 Familiar with **system architecture design**, **API development**, **real-time applications**, and **microservices**
+- ⚙️ Adept in designing clean, maintainable codebases with proper version control and continuous integration strategies
+- 💬 I enjoy mentoring junior developers, collaborating in cross-functional teams, and translating complex requirements into functional software
+- 🌍 Open to remote opportunities and building impactful products across the globe
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Clean code, great UX, and scalable architecture are at the heart of every solution I build."
 
 ## 📫 How to reach me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amolo-joseph/)
