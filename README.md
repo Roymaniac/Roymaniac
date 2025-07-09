@@ -1,14 +1,38 @@
 ### 👋 Hi there, I'm Amolo Joseph – a Full-Stack Software Engineer from Lagos, Nigeria 🇳🇬
 
-I’m a passionate and detail-oriented developer who thrives on building scalable web applications and solving real-world problems through code.
+I'm a results-driven developer with over 5 years of hands-on experience building full-stack solutions across **fintech**, **capital markets**, **healthcare**, and **education** industries. I specialize in architecting scalable backend systems and crafting intuitive, performant frontends.
 
-- 🔭 Currently working on multiple frontend and backend projects using **React.js**, **Express.js**, **Nest.js**, **Vue.js**, and **Laravel**  
-- 🧠 Familiar with **system architecture design**, **API development**, **real-time applications**, and **microservices**
-- ⚙️ Adept in designing clean, maintainable codebases with proper version control and continuous integration strategies
-- 💬 I enjoy mentoring junior developers, collaborating in cross-functional teams, and translating complex requirements into functional software
-- 🌍 Open to remote opportunities and building impactful products across the globe
+---
 
-> "Clean code, great UX, and scalable architecture are at the heart of every solution I build."
+### 🔧 What I Do
+
+- 🔭 Working on real-time and large-scale applications using **Laravel**,**Django**, **Flask**, **Vue.js**, **React.js**, **React Native**, **NestJS**, and **Express.js**
+- 🧩 Experienced in designing **system architecture**, **RESTful & GraphQL APIs**, and **event-driven services**
+- 🧠 Skilled in integrating third-party services like **AWS**, **Apple Pay**, and **Payment Gateways**
+- 📊 Strong background in building enterprise platforms for **OTC exchanges**, **Investment Reports**, and **Automated Workflows**
+
+---
+
+### 🏆 Achievements
+
+- ✅ Built a **real-time trading platform** used by top Nigerian financial institutions (CCP, TSS, trade filters, suspension workflows)
+- ✅ Developed a **UTME exam system** with video/audio proctoring, violation logging, and secure evidence storage
+- ✅ Delivered a **chat application** with private/group chat, file sharing, and typing indicators using Laravel and Vue.js
+- ✅ Contributed to an **investment management dashboard** for monitoring returns, repayments, and credit risk
+- ✅ Mentored junior developers and facilitated team onboarding and training processes
+
+---
+
+### 📜 Certifications
+
+- 🥇 **AWS Certified Cloud Practitioner – 2025**
+- 🥈 **Meta Front-End Developer Certificate – Coursera**
+- 🥉 **Diploma in Python Programming – NIIT**
+- 🧾 In-progress: **AWS Solution Artchitect**
+
+---
+
+> “I believe in building systems that are not just functional, but reliable, scalable, and user-centric.”
 
 ## 📫 How to reach me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amolo-joseph/)
