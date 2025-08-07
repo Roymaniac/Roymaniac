@@ -26,7 +26,7 @@ I'm a results-driven developer with over 5 years of hands-on experience building
 ### 📜 Certifications
 
 - 🥇 **AWS Certified Cloud Practitioner – 2025**
-- 🥈 **Meta Front-End Developer Certificate – Coursera**
+- 🥈 **Meta Back-End Developer Certificate – Coursera**
 - 🥉 **Diploma in Python Programming – NIIT**
 - 🧾 In-progress: **AWS Solution Artchitect**
 
