@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Amolo Joseph – a Full-Stack Software Engineer from Lagos, Nigeria 🇳🇬
 
-I'm a results-driven developer with over 5 years of hands-on experience building full-stack solutions across **fintech**, **capital markets**, **healthcare**, and **education** industries. I specialize in architecting scalable backend systems and crafting intuitive, performant frontends.
+I'm a results-driven developer with over 5 years of hands-on experience building full-stack solutions across **fintech**, **capital markets**, **healthcare**, **e-commerce** and **education** industries. I specialize in architecting scalable backend systems and crafting intuitive, performant frontends.
 
 ---
 
