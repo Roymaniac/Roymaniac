@@ -1,96 +1,86 @@
-### 👋 Hi there, I'm Joseph Amolo – a Full-Stack Software Engineer from Lagos, Nigeria 🇳🇬
+# Hi, I’m Joseph Amolo 👋
 
-I'm a results-driven developer with over 5 years of hands-on experience building full-stack solutions across **fintech**, **capital markets**, **healthcare**, **e-commerce** and **education** industries. I specialize in architecting scalable backend systems and crafting intuitive, performant frontends.
+### Backend-focused Software Engineer | Financial Systems | Full-Stack Development
 
----
+I turn complex business requirements into **secure APIs, reliable backend services, and practical user interfaces**.
 
-### 🔧 What I Do
+With **5+ years of experience**, I’ve built software across **fintech, capital markets, healthcare, e-commerce, and education**. My strongest work involves systems where **data integrity, business rules, and real-time workflows** matter.
 
-- 🔭 Working on real-time and large-scale applications using **Laravel**,**Django**, **Flask**, **Vue.js**, **React.js**, **React Native**, **NestJS**, and **Express.js**
-- 🧩 Experienced in designing **system architecture**, **RESTful & GraphQL APIs**, and **event-driven services**
-- 🧠 Skilled in integrating third-party services like **AWS**, **Apple Pay**, and **Payment Gateways**
-- 📊 Strong background in building enterprise platforms for **OTC exchanges**, **Investment Reports**, and **Automated Workflows**
+📍 **Lagos, Nigeria** · Open to **backend and full-stack engineering opportunities**
 
----
-
-### 🏆 Achievements
-
-- ✅ Built a **real-time trading platform** used by top Nigerian financial institutions (CCP, TSS, trade filters, suspension workflows)
-- ✅ Developed a **UTME exam system** with video/audio proctoring, violation logging, and secure evidence storage
-- ✅ Delivered a **chat application** with private/group chat, file sharing, and typing indicators using Laravel and Vue.js
-- ✅ Contributed to an **investment management dashboard** for monitoring returns, repayments, and credit risk
-- ✅ Mentored junior developers and facilitated team onboarding and training processes
+[LinkedIn](https://www.linkedin.com/in/amolo-joseph/) · [Portfolio](https://devroy.netlify.app/) · [Download CV](YOUR_CV_URL) · [Email Me](mailto:amolojoseph2020@gmail.com)
 
 ---
 
-### 📜 Certifications
+## 🚀 Selected Work
 
-- 🥇 **AWS Certified Cloud Practitioner – 2025**
-- 🥈 **Meta Back-End Developer Certificate – Coursera**
-- 🥉 **Diploma in Python Programming – NIIT**
-- 🧾 In-progress: **AWS Solution Artchitect**
+### Financial Trading Platform
+**Built real-time trading functionality used by Nigerian financial institutions.**
+
+- Implemented trade filtering, suspension workflows, and post-trade processes.
+- Translated complex financial operating rules into backend logic and actionable interfaces.
+- Worked on workflows requiring accurate financial data and consistent business-rule enforcement.
+
+**Engineering focus:** Financial systems · Real-time workflows · Data integrity
+
+### Online Examination & Proctoring System
+**Developed a UTME examination platform with integrated monitoring.**
+
+- Built examination workflows with video and audio proctoring.
+- Implemented violation logging and secure evidence storage.
+- Connected assessment delivery and monitoring within one platform.
+
+**Engineering focus:** Exam workflows · Proctoring · Traceability
+
+### Real-Time Communication Platform
+**Delivered a messaging application using Laravel and Vue.js.**
+
+- Built private and group conversations, file sharing, and typing indicators.
+- Connected backend messaging events to responsive frontend interactions.
+
+**Engineering focus:** Real-time communication · Event delivery · Full-stack integration
+
+### Investment Management Dashboard
+**Contributed to tools for monitoring investment performance and exposure.**
+
+- Built dashboard functionality for tracking returns, repayments, and credit risk.
+- Translated financial information into views that support operational decisions.
+
+**Engineering focus:** Financial reporting · Data presentation · Workflow integration
 
 ---
 
-> “I believe in building systems that are not just functional, but reliable, scalable, and user-centric.”
+## 🛠️ Technical Toolkit
 
-## 📫 How to reach me
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/amolo-joseph/)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@dev_roy)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/19777303/roymaniac)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/awele.roy.II)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Awele_roy)
-<br>
-<br>
+| Area | Technologies & Skills |
+| --- | --- |
+| **Backend** | Node.js, TypeScript, NestJS, Express, PHP, Laravel, Python, Django, Flask |
+| **Frontend** | React, Vue.js, JavaScript |
+| **APIs & Architecture** | REST, GraphQL, System Design, Event-Driven Services |
+| **Cloud & Integrations** | AWS, Third-Party APIs, Payment Gateways |
 
-# :hammer_and_wrench: Languages and Tools
-<img align="left" alt="js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img align="left" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="left" alt="react" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img align="left" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="left" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<br>
-<hr>
+---
 
-<img align="left" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />  
-<img align="left" alt="drf" src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-<img align="left" alt="bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img align="left" alt="kube" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-<br>
-<hr>
-<br>
+## 🤝 What I Bring to a Team
 
-## Expertise
-<img align="left" alt="nodejs" src="https://img.shields.io/badge/Express.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="left" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> 
-<img align="left" alt="react" src="https://img.shields.io/badge/React%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img align="left" alt="vue" src="https://img.shields.io/badge/Vue-%23316192.svg?&style=for-the-badge&logo=vuedotjs&logoColor=green" />
-<br>
-<hr>
-<img align="left" alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img align="left" alt="postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="left" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="mssql" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge" />
-<br>
-<hr>
+- **Business-aware engineering:** translating domain requirements into maintainable software.
+- **Backend ownership:** designing APIs, implementing business logic, and connecting external services.
+- **Full-stack delivery:** building the interfaces needed to make backend capabilities useful.
+- **Team development:** mentoring junior engineers and supporting onboarding and knowledge sharing.
 
-# Stats
-<div align="center" dir="auto">
-    <a href="https://github.com/mmpacker/github-readme-stats">
-      <img height="200" src="https://github-readme-stats.vercel.app/api?username=roymaniac&amp;theme=dark&amp;show_icons=true" style="max-width: 100%;">
-    </a>&nbsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=dev_roy&layout=compact&amp;theme=dark" style="max-width: 100%;">
-   </a>&nbsp;
-</div>
+---
 
-<div align="center" dir="auto">
-   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Roymaniac&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </a>&nbsp;
-   <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">
-      <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymaniac&layout=compact&langs_count=10&amp;theme=dark" style="max-width: 100%;">
-   </a>&nbsp;
-</div>
+## 📜 Certifications & Learning
+
+- **AWS Certified Cloud Practitioner** — 2025
+- **Meta Back-End Developer Certificate** — Coursera
+- **Diploma in Python Programming** — NIIT
+- Currently preparing for **AWS Solutions Architect certification**
+
+---
+
+## 📬 Let’s Connect
+
+**Hiring?** I’m interested in opportunities to own backend services, solve complex workflow problems, and contribute across the product.
+
+**Building similar systems?** Let’s connect around backend architecture, financial systems, API design, and full-stack engineering.
